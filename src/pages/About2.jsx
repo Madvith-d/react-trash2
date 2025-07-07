@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const About = ()=>{
+const About2 = ()=>{
     return(
 
         <>
@@ -12,3 +12,4 @@ const About = ()=>{
 
     
 }
+export default About2
